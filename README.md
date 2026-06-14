@@ -16,7 +16,7 @@
 
 [Features](#-features) · [Architecture](#1-system-architecture) · [Tech Stack](#2-technology-stack) · [ML Model](#4-model-design--reasoning-pipeline) · [Installation](#7-installation-configuration-and-setup) · [Demo](#9-demo-screenshots)
 
-<img src="docs/screenshots/landing_page.png" alt="Maintenance AI Landing Page" width="100%" />
+<img src="docs/screenshots/Landing_Page.png" alt="Maintenance AI Landing Page" width="100%" />
 
 </div>
 

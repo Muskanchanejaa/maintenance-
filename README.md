@@ -438,8 +438,8 @@ $$\text{Priority} = 26 \cdot C + 36 \cdot A + 16 \cdot D + 14 \cdot S + 8 \cdot 
 #### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/MoAftaab/steelguardai.git
-cd steelguard-ai
+git clone https://github.com/Muskanchanejaa/maintenance-.git
+cd maintenance-
 ```
 
 #### Step 2: Configure Environment Variables
